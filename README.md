@@ -9,7 +9,7 @@ Created with:
 - Ampps local server
 - colorlib.com
 
-Issue with connection .js - files in <script>.
+<b>Issue with connection .js - files in <script>.</b>
 
 Ony many such services, the file system is often by default read-only as it is meant to be shared across multiple nodes.
 You need to set up and configure a shared, writable file system.

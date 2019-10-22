@@ -1,0 +1,7 @@
+AddDefaultCharset utf-8
+#turn on configuration module, if no file and no directory -> rerouting to index.php
+RewriteEngine on
+#verification and redirection to index.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php

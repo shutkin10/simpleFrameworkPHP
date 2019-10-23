@@ -1,6 +1,6 @@
 # simpleFrameworkPHP
 Simple Framework based on MVC (Model-View-Controller) pattern in PHP programming language. The purpose of this project is to
-practice understanding OOP and programming fundamentals. Then, I'll use this framework to create a blog.
+practice understanding OOP and programming fundamentals.
 
 Framework works on a local server Ampps and uses MySQL database.
 Created with:
